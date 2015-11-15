@@ -1,0 +1,2 @@
+- Transfer files over sockets of any size while retaining formatting
+- Hope to be able to stream content to anyone
